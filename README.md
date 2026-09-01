@@ -5,6 +5,8 @@ This repository contains several tools related to **Python** analysis and power 
 > **Important:** This repository contains **multiple independent projects in the same GitHub repository**.\
 > When working with one of the projects in VS Code, you should open **only that project folder** as your VS Code workspace.
 
+> **Environment:** to use the following projects, you can set up either a Linux (WSL) or Windows environment. Instructions for setting up WSL environment are available under [Environment installation](https://github.com/heig-vd-ie/perl-python_tools/blob/main/Environment_Installation.md), and instructions for setting up the Windows environment are available in the [perl-plecs_tools repository](https://github.com/heig-vd-ie/perl-plecs_tools/blob/main/Environment_Installation.md).
+
 ## Repository Structure
 
 The repository is organized into several projects:
