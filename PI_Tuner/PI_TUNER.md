@@ -35,7 +35,7 @@ jupyterlab >= 4.0
 Install with:
 
 ```bash
-pip install numpy control plotly ipywidgets jupyterlab
+uv pip install requirements.txt
 ```
 
 > **JupyterLab is required** for `ipywidgets` sliders and `plotly` `FigureWidget` to render correctly.
