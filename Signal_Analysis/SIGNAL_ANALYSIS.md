@@ -32,7 +32,7 @@ jupyterlab >= 4.0
 Install with:
 
 ```bash
-pip install numpy pandas scipy plotly ipython jupyterlab
+uv pip install requirements.txt
 ```
 
 ---
